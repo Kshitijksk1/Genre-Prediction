@@ -1,6 +1,3 @@
-Data Mining Assignment - 2
-CSE 5334
-
 Requirements:
 1) Jupyter Notebook/ Google Colab
 2) Pandas, NumPy, sklearn
